@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vertxc.aternos.me",
+    "ip": "insect.aternos.host",
     "port": 47697,
-    "version": "26.2"
+    "version": "1.26.2"
   },
   "position": {
     "enabled": true,
